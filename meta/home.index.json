@@ -1,0 +1,31 @@
+{
+  "ownKey": "home",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://jetbrains.github.io/fbme",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "https://jetbrains.github.io/fbme"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<p><strong>FBME<\/strong> <em>(Function Blocks Modelling Environment)<\/em> is an IDE for IEC 61499 standard built on top of\n<a href=\"https://www.jetbrains.com/mps\">JetBrains MPS<\/a> language workbench.<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://jetbrains.github.io/fbme",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "https://jetbrains.github.io/fbme/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}

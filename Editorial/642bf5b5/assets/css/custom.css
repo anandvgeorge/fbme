@@ -1,0 +1,5 @@
+.menu ul {
+  text-transform: uppercase; }
+
+.menu li > ul {
+  text-transform: none; }
