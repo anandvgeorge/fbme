@@ -8,5 +8,6 @@ include 'code:platform'
 include 'code:richediting'
 include 'code:sandboxes'
 include 'code:scenes'
+include 'code:test-module'
 
 include 'docs'
